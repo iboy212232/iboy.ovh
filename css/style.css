@@ -1,0 +1,13 @@
+html{
+    width: auto;
+    height: auto;
+}
+div{
+    height: auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    color:white;
+}
